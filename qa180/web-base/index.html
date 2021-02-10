@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>WebBase from QANinja</title>
+    <script src="js/vue.js"></script>
+</head>
+
+<body>
+    <div id="app">
+        <h1>
+            Cadastro de Alunos
+        </h1>
+        <form>
+            <label for="nomeCompleto">Nome Completo</label>
+            <input name="nomeCompleto" type="text" v-model="form.nome">
+
+            <label for="email">E-mail</label>
+            <input name="email" type="text" v-model="form.email">
+
+            <label for="nota">Nota</label>
+            <input name="nota" type="text" v-model="form.nota">
+
+            <input name="cadastrar" type="button" value="Cadastrar" @click="adicionarAluno">
+        </form>
+      
+        <div>
+            <table class="table">
+                <thead>
+                    <th>Nome</th>
+                    <th>E-mail</th>
+                    <th>Nota</th>
+                    <th>Ações</th>
+                </thead>
+                <tbody>
+                    <tr v-for="aluno in alunos">
+                        <td>{{aluno.nome}}</td>
+                        <td>{{aluno.email}}</td>
+                        <td>{{aluno.nota}}</td>
+                        <td>
+                            <button class="danger" @click="apagarAluno(aluno)">Apagar</button>
+                        </td>
+                    </tr>
+                </tbody>
+                <tfoot></tfoot>
+            </table>
+        </div>
+    </div>
+    <script>
+        var app = new Vue({
+            el: "#app",
+            data: {
+                form: {
+                    nome: '',
+                    email: '',
+                    nota: ''
+                },
+
+                alunos: []
+            },
+            methods: {
+                limpaFormulario: function(){
+                    this.form = {
+                        nome: '',
+                        email: '',
+                        nota: ''
+                    }
+                },
+                adicionarAluno: function(){
+                    //console.log(this.form)
+                    this.alunos.push(this.form)
+                    this.limpaFormulario()
+                },
+                apagarAluno: function(aluno) {
+                    var posicao = this.alunos.indexOf(aluno)
+                    this.alunos.splice(posicao, 1)
+                }
+            }
+        })
+    </script>
+    <style>
+        .table {
+            margin-top: 20px;
+            width: 100%;
+            text-align: left;
+        }
+
+        .table th,
+        .table td {
+            border-top: 1px solid rgb(218, 103, 183);
+        }
+
+        .table th:last-child,
+        .table td:last-child {
+            text-align: right;
+        }
+
+        .danger {
+            background-color: crimson;
+            border-color: crimson;
+            color: floralwhite;
+        }
+
+        input {
+            display: block;
+        }
+
+        input[type=button] {
+            background-color: rgb(186, 236, 236);
+            border-color: rgb(186, 236, 236);
+            color: deeppink;
+            margin-top: 10px;
+        }
+    </style>
+
+</body>
+
+</html>
