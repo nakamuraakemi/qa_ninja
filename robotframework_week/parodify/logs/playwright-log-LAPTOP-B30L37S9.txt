@@ -1,0 +1,50 @@
+{"level":30,"time":"2021-02-10T15:56:30.102Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Listening on 54985"}
+{"level":30,"time":"2021-02-10T15:56:31.528Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:56:31.995Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-10T15:56:31.995Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:56:37.017Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:56:37.018Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-10T15:56:37.018Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:56:37.052Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:56:37.052Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-10T15:56:37.052Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:56:37.876Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:56:38.142Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-10T15:56:38.142Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:56:42.674Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-10T15:56:43.101Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:56:43.102Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-10T15:56:43.102Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:56:43.129Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:56:43.129Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-10T15:56:43.129Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:56:45.150Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:56:45.407Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-10T15:56:45.407Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:56:49.891Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-10T15:56:50.333Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:56:50.333Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-10T15:56:50.333Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:56:50.349Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:56:50.349Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-10T15:56:50.349Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:56:51.203Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:56:51.477Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-10T15:56:51.477Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:56:55.612Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-10T15:56:56.030Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:56:56.031Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-10T15:56:56.031Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:56:56.049Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:56:56.049Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-10T15:56:56.049Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:56:57.173Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:56:57.545Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-10T15:56:57.545Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:57:02.353Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-10T15:57:02.844Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:57:02.844Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-10T15:57:02.845Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
+{"level":30,"time":"2021-02-10T15:57:02.861Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active context"}
+{"level":30,"time":"2021-02-10T15:57:02.862Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-10T15:57:02.862Z","pid":5320,"hostname":"LAPTOP-B30L37S9","msg":"Changed active page"}
